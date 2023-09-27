@@ -1,5 +1,5 @@
-# forage_british_airways_work_sample
-Forage British Airways Data Science Job Simulation
+# Forage British Airways Data Science Job Simulation
+
 
 * Task 1 focused on scraping and collecting customer feedback and reviewing data from a third-party source. The task involved analysing this data to present insights regarding customer's feelings, needs, and feedback to drive key business decisions. Data was cleaned of unwanted characters, stopwords and punctuations; and analysis tools including topic modelling, sentiment analysis and wordclouds were implemented to provide insight into the content of the reviews.
 
